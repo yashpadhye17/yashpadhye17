@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Padhye</h1>
 <h3 align="center">An AI enthusiast building models that make an impact. Turning complex data into actionable insights.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpadhye17" alt="yashpadhye17" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
