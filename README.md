@@ -9,7 +9,7 @@ I am a results-driven **AI & Machine Learning Engineer** with 1+ year of profess
 ---
 
 ### 🚀 Professional Highlights
-* **Current Role:** Research Assistant (App Developer) at University of Houston.
+* **Current Role:** Research Assistant (Application Developer/IT) at University of Houston.
 * **Industry Experience:** Former Associate Data Scientist at Inorg Global India (Ascension Award recipient).
 * **Certifications:** 3x Microsoft Azure Certified (Fabric Data Engineer, Data Fundamentals, AI Fundamentals).
 * **Focus:** Scaling ML models with Docker/Kubernetes and orchestrating Agentic AI workflows.
