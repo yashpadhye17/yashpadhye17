@@ -1,25 +1,87 @@
-<h1 align="center">Hi 👋, I'm Yash Padhye</h1>
-<h3 align="center">An AI enthusiast building models that make an impact. Turning complex data into actionable insights.</h3>
+# 👋 Hi, I'm Yash Padhye
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+### AI & Machine Learning Engineer | Data Science Enthusiast
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+An AI enthusiast passionate about building intelligent systems that turn complex data into actionable insights. Currently pursuing a Master’s in Data Science & Artificial Intelligence at the University of Houston, with hands-on experience in Machine Learning, NLP, Computer Vision, and MLOps.
 
-- 🤝 I’m looking for help with **Internship/ Co-ops/ Full Time Roles**
+---
 
-- 💬 Ask me about **machine learning, AI, data science, and building data-driven solutions**
+## 📌 Table of Contents
+- [Introduction](#introduction)
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Configuration](#configuration)
+- [Examples](#examples)
+- [Troubleshooting](#troubleshooting)
+- [Contributors](#contributors)
+- [Contact](#contact)
+- [License](#license)
 
-- 📫 How to reach me **yashpadhye2016@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-padhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-padhye" height="30" width="40" /></a>
-</p>
+## 🧠 Introduction
 
-### Languages and Tools:
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> |
+I specialize in building scalable AI/ML systems and deploying production-ready solutions using modern tools and cloud platforms. My focus areas include:
+
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- MLOps & LLMOps
+- Data Engineering & Analytics
+
+---
+
+## 🎓 Education
+
+**University of Houston**  
+*M.S. in Data Science & Artificial Intelligence* (2025 – 2027)  
+GPA: 3.89/4.0  
+
+**Savitribai Phule Pune University**  
+*B.E. in Artificial Intelligence and Data Science* (2020 – 2024)  
+GPA: 3.77/4.0  
+
+---
+
+## 💼 Work Experience
+
+### Research Assistant – Application Developer  
+**University of Houston** (Dec 2025 – Present)
+- Built scalable data pipelines across 27 departments using SQL Stored Procedures
+- Developed Tableau dashboards for faculty evaluation analytics
+
+### Associate Data Scientist  
+**Inorg Global Pvt. Ltd.** (Jul 2024 – Jul 2025)
+- Built facial recognition system (93% accuracy) using DeepFace & OpenCV
+- Reduced valuation analysis time from 8 days to 10 minutes
+- Developed NLP chatbot handling 5,000+ queries with real-time API integration
+- Designed Power BI dashboards for workforce analytics
+
+---
+
+## 🛠️ Skills
+
+### Languages & Databases
+Python, R, SQL, C++, C#, MySQL, PostgreSQL, MongoDB, Neo4j  
+
+### AI/ML & Deep Learning
+TensorFlow, PyTorch, Scikit-Learn, Hugging Face, BERT, OpenCV, YOLO, DeepFace  
+
+### Data Engineering & Analytics
+PySpark, Apache Airflow, Pandas, NumPy, Tableau, Power BI, Snowflake  
+
+### Dev & Deployment
+Flask, FastAPI, Streamlit, Docker, Kubernetes, Jenkins, CI/CD, REST APIs  
+
+### Cloud Platforms
+AWS, Azure, Databricks, Dataiku, MLflow  
+
+### Generative AI
+RAG, Agentic AI, Prompt Engineering, LLM Fine-Tuning  
+
