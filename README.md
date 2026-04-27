@@ -1,87 +1,67 @@
-# 👋 Hi, I'm Yash Padhye
-
-### AI & Machine Learning Engineer | Data Science Enthusiast
-
-An AI enthusiast passionate about building intelligent systems that turn complex data into actionable insights. Currently pursuing a Master’s in Data Science & Artificial Intelligence at the University of Houston, with hands-on experience in Machine Learning, NLP, Computer Vision, and MLOps.
+<h1 align="center">Hi 👋, I'm Yash Padhye</h1>
+<h3 align="center">AI & Machine Learning Engineer | M.S. Data Science & AI @ University of Houston</h3>
 
 ---
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Configuration](#configuration)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [Contact](#contact)
-- [License](#license)
+### 📝 About Me
+I am a results-driven **AI & Machine Learning Engineer** with 1+ year of professional experience in enterprise-level AI, Computer Vision, and NLP. I specialize in building end-to-end ML pipelines—from data ingestion and feature engineering to model deployment and MLOps. Currently, I am focused on scaling Generative AI and LLMOps solutions.
 
 ---
 
-## 🧠 Introduction
-
-I specialize in building scalable AI/ML systems and deploying production-ready solutions using modern tools and cloud platforms. My focus areas include:
-
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- MLOps & LLMOps
-- Data Engineering & Analytics
+### 🚀 Professional Highlights
+* **Current Role:** Research Assistant (App Developer) at University of Houston.
+* **Industry Experience:** Former Associate Data Scientist at Inorg Global India (Ascension Award recipient).
+* **Certifications:** 3x Microsoft Azure Certified (Fabric Data Engineer, Data Fundamentals, AI Fundamentals).
+* **Focus:** Scaling ML models with Docker/Kubernetes and orchestrating Agentic AI workflows.
+* **Open to:** Internships, Co-ops, and Full-time roles in ML Engineering, Data Science, or AI Development.
 
 ---
 
-## 🎓 Education
+### 🛠 Technical Expertise
 
-**University of Houston**  
-*M.S. in Data Science & Artificial Intelligence* (2025 – 2027)  
-GPA: 3.89/4.0  
+**AI, Deep Learning & GenAI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-**Savitribai Phule Pune University**  
-*B.E. in Artificial Intelligence and Data Science* (2020 – 2024)  
-GPA: 3.77/4.0  
+**Data Engineering, Cloud & MLOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+**Analytics & Core Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
-## 💼 Work Experience
-
-### Research Assistant – Application Developer  
-**University of Houston** (Dec 2025 – Present)
-- Built scalable data pipelines across 27 departments using SQL Stored Procedures
-- Developed Tableau dashboards for faculty evaluation analytics
-
-### Associate Data Scientist  
-**Inorg Global Pvt. Ltd.** (Jul 2024 – Jul 2025)
-- Built facial recognition system (93% accuracy) using DeepFace & OpenCV
-- Reduced valuation analysis time from 8 days to 10 minutes
-- Developed NLP chatbot handling 5,000+ queries with real-time API integration
-- Designed Power BI dashboards for workforce analytics
+### 📂 Featured Projects
+* **[CareerAgent](https://github.com/your-repo-link):** Agentic AI pipeline using LangChain/Groq LLM for autonomous job filtering, scoring, and resume tailoring.
+* **[CheckIntel](https://github.com/your-repo-link):** MLOps project for reservation cancellation prediction using LightGBM, Docker, and Jenkins CI/CD.
 
 ---
 
-## 🛠️ Skills
-
-### Languages & Databases
-Python, R, SQL, C++, C#, MySQL, PostgreSQL, MongoDB, Neo4j  
-
-### AI/ML & Deep Learning
-TensorFlow, PyTorch, Scikit-Learn, Hugging Face, BERT, OpenCV, YOLO, DeepFace  
-
-### Data Engineering & Analytics
-PySpark, Apache Airflow, Pandas, NumPy, Tableau, Power BI, Snowflake  
-
-### Dev & Deployment
-Flask, FastAPI, Streamlit, Docker, Kubernetes, Jenkins, CI/CD, REST APIs  
-
-### Cloud Platforms
-AWS, Azure, Databricks, Dataiku, MLflow  
-
-### Generative AI
-RAG, Agentic AI, Prompt Engineering, LLM Fine-Tuning  
-
+### 📬 Let’s Connect
+* **Email:** [yashpadhye2016@gmail.com](mailto:yashpadhye2016@gmail.com)
+* **LinkedIn:** [linkedin.com/in/yash-padhye](https://linkedin.com/in/yash-padhye)
+* **Location:** Houston, Texas
