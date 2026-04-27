@@ -55,12 +55,6 @@ I am a results-driven **AI & Machine Learning Engineer** with 1+ year of profess
 
 ---
 
-### 📂 Featured Projects
-* **[CareerAgent](https://github.com/your-repo-link):** Agentic AI pipeline using LangChain/Groq LLM for autonomous job filtering, scoring, and resume tailoring.
-* **[CheckIntel](https://github.com/your-repo-link):** MLOps project for reservation cancellation prediction using LightGBM, Docker, and Jenkins CI/CD.
-
----
-
 ### 📬 Let’s Connect
 * **Email:** [yashpadhye2016@gmail.com](mailto:yashpadhye2016@gmail.com)
 * **LinkedIn:** [linkedin.com/in/yash-padhye](https://linkedin.com/in/yash-padhye)
